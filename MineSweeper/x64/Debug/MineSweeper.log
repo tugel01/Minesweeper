@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Tugel\source\repos\MineSweeper\MineSweeper\main.c(262,3): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Tugel\source\repos\MineSweeper\MineSweeper\main.c(265,16): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  MineSweeper.vcxproj -> C:\Users\Tugel\source\repos\MineSweeper\x64\Debug\MineSweeper.exe
