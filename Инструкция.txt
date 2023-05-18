@@ -1,0 +1,2 @@
+Код находится в Minesweeper/Minesweeper/main.c
+Исполняемый файл находится в x64/Debug/MineSweeper.exe
